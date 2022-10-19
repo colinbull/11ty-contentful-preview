@@ -12,6 +12,10 @@
   "license": "MIT",
   "dependencies": {
     "@11ty/eleventy": "^1.0.1",
-    "@netlify/functions": "^0.7.2"
+    "@contentful/rich-text-html-renderer": "^15.13.1",
+    "@netlify/functions": "^0.7.2",
+    "contentful": "^9.2.5",
+    "dotenv": "^16.0.3",
+    "marked": "^1.1.0"
   }
 }
